@@ -22,4 +22,8 @@
  
   ![Snake animation](https://github.com/jjpmonteiro/jjpmonteiro/blob/output/github-contribution-grid-snake.svg)
 
+  ![Snake animation](https://github.com/roberto-hofstetter/roberto-hofstetter/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
 </div>
